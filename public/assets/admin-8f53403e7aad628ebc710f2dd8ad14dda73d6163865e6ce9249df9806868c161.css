@@ -1,0 +1,62 @@
+/* line 3, /vagrant/baukis/app/assets/stylesheets/admin/container.css.scss */
+div#wrapper div#container h1 {
+  margin: 0;
+  padding: 9px 6px;
+  font-size: 16px;
+  font-weight: normal;
+  background-color: #448888;
+}
+/* line 1, /vagrant/baukis/app/assets/stylesheets/admin/layout.css.scss */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* line 7, /vagrant/baukis/app/assets/stylesheets/admin/layout.css.scss */
+div#wrapper {
+  position: relative;
+  box-sizing: border-box;
+  min-height: 100%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  background-color: #F6E078;
+}
+
+/* line 16, /vagrant/baukis/app/assets/stylesheets/admin/layout.css.scss */
+header {
+  padding: 5px;
+  background-color: #DBC266;
+  color: #eeeeee;
+}
+
+/* line 22, /vagrant/baukis/app/assets/stylesheets/admin/layout.css.scss */
+footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  background-color: #F79800;
+  color: #eeeeee;
+}
+/* line 28, /vagrant/baukis/app/assets/stylesheets/admin/layout.css.scss */
+footer p {
+  text-align: center;
+  padding: 5px;
+  margin: 0;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
